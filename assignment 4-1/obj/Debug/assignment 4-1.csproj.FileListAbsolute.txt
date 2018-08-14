@@ -1,0 +1,6 @@
+c:\users\zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\bin\Debug\assignment 4-1.exe.config
+C:\Users\Zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\bin\Debug\assignment 4-1.exe
+C:\Users\Zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\bin\Debug\assignment 4-1.pdb
+C:\Users\Zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\obj\Debug\assignment 4-1.csprojResolveAssemblyReference.cache
+C:\Users\Zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\obj\Debug\assignment 4-1.exe
+C:\Users\Zach\documents\visual studio 2012\Projects\assignment 4-1\assignment 4-1\obj\Debug\assignment 4-1.pdb
